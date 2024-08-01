@@ -16,7 +16,7 @@ This analysis seeks to identify opportunities for growth, improve customer satis
 These insights provide a clear picture of Blinkit sales performance, highlighting key trends, top-performing outlets, and items, as well as Fat content. This information can be valuable for strategic decision-making and improving business operations.
 
 **SKILLS AND TOOLS:**
-- POWER BI : Utilized advanced Power BI features such as Power Query, DAX Queries, Data Modeling, Dynamic Charts,Tables, Slicers and Buttons etc. - -Enhanced my data visualization skills to create clear and impactful charts, graphs and Dashboards.
+- POWER BI : Utilized advanced Power BI features such as Power Query, DAX Queries, Data Modeling, Dynamic Charts,Tables, Slicers and Buttons etc. Enhanced my data visualization skills to create clear and impactful charts, graphs and Dashboards.
 - PowerPoint : Used Power Point for graphics and visual elements, helping craft a clear and professional presentation.
 - Chatgpt : Assisted in generating content and refining the narrative for the project documentation.
 
